@@ -2,6 +2,8 @@
 #Andrew Shimabuku
 #05-25-12
 
+alias ls='ls --color=auto'
+
 #Git info in your ZSH Prompt (http://briancarper.net/blog/570/git-info-in-your-zsh-prompt)
 
 autoload -Uz vcs_info
