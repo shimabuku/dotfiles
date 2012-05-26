@@ -4,6 +4,8 @@
 
 alias ls='ls --color=auto'
 
+export PAGER=most
+
 #Git info in your ZSH Prompt (http://briancarper.net/blog/570/git-info-in-your-zsh-prompt)
 
 autoload -Uz vcs_info
