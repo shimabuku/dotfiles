@@ -8,7 +8,7 @@
 
 dir=~/.dotfiles                    # dotfiles directory
 olddir=~/.dotfiles_old             # old dotfiles backup directory
-files=".config .fluxbox .gitconfig .profile .tilda .zshrc"    # list of files/folders to symlink in homedir
+files=".config .fluxbox .gitconfig .tilda .zprofile .zshrc"    # list of files/folders to symlink in homedir
 
 ##########
 
