@@ -14,7 +14,7 @@ xmodmap "/home/andrew/.Xmodmap"
 # wmnd &
 # wmsmixer -w &
 fbsetbg -f ~/.fluxbox/backgrounds/fantasy-space-wallpaper-img21.jpg
-idesk &
+#idesk &
 xcompmgr &
 tilda -h &
 cairo-dock &
