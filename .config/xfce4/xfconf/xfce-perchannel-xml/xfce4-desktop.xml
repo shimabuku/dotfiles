@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-desktop" version="1.0">
+  <property name="backdrop" type="empty">
+    <property name="screen0" type="empty">
+      <property name="monitor0" type="empty">
+        <property name="image-path" type="string" value="/home/andrew/.fluxbox/backgrounds/fantasy-space-wallpaper-img21.jpg"/>
+        <property name="last-image" type="string" value="/home/andrew/.fluxbox/backgrounds/fantasy-space-wallpaper-img21.jpg"/>
+        <property name="last-single-image" type="string" value="/home/andrew/.fluxbox/backgrounds/fantasy-space-wallpaper-img21.jpg"/>
+        <property name="last-image-list" type="string" value="/home/andrew/.config/xfce4/desktop/backdrop.list"/>
+        <property name="image-style" type="int" value="0"/>
+      </property>
+    </property>
+  </property>
+  <property name="desktop-icons" type="empty">
+    <property name="icon-size" type="uint" value="32"/>
+    <property name="show-thumbnails" type="bool" value="false"/>
+  </property>
+</channel>
