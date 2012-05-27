@@ -13,10 +13,11 @@ xmodmap "/home/andrew/.Xmodmap"
 # unclutter -idle 2 &
 # wmnd &
 # wmsmixer -w &
-fbsetbg -f ~/.fluxbox/backgrounds/fantasy-space-wallpaper-img21.jpg
+#fbsetbg -f ~/.fluxbox/backgrounds/fantasy-space-wallpaper-img21.jpg
 #idesk &
 xcompmgr &
 tilda -h &
+xfdesktop &
 cairo-dock &
 
 # And last but not least we start fluxbox.

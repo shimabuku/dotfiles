@@ -31,6 +31,6 @@ setopt prompt_subst
 #PROMPT='%F{white}%n@%m %c${vcs_info_msg_0_}%F{blue} %(?/%F{blue}/%F{red})%% %{$reset_color%}'
 
 #Modified prompt
-PROMPT='[%F{green}%B%n%F{white}%b:%~${vcs_info_msg_0_}%F{blue}%(?/%F{blue}/%F{red})% %F{white}]%# '
+PROMPT='[%F{green}%B%n%F{white}%b:%~${vcs_info_msg_0_}%F{blue}%(?/%F{blue}/%F{red})% %F{white}]%# %{$reset_color%}'
 
 #Date insert into prompt: [%F{green}%B%T%b]
