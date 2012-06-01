@@ -3,6 +3,7 @@
 xcompmgr &
 tilda &
 cairo-dock &
+xfce4-power-manager &
 
 # fix broken $UID on some system...
 if test "x$UID" = "x"; then
